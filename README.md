@@ -1,4 +1,4 @@
-# laminas-config-aggregator-modulemanager
+# PHP 7.0 support for: laminas-config-aggregator-modulemanager
 
 > ## 🇷🇺 Русским гражданам
 > 
